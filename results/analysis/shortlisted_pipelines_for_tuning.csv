@@ -1,0 +1,6 @@
+Processed_File,Model,mean_auc,std_auc,mean_f1,std_f1,count,Pipeline
+Data_drop_na_balanced_smote.pkl,CatBoost,0.9999432804893381,6.608256669855285e-05,0.9961174124392371,0.004029078859435749,5,Data_drop_na_balanced_smote.pkl | CatBoost
+Data_drop_na_balanced_smote.pkl,LightGBM,0.9993986795503709,0.0009488429455122738,0.9932703040387055,0.006587366969824611,5,Data_drop_na_balanced_smote.pkl | LightGBM
+Data_drop_na_balanced_smote.pkl,MLP,0.9975065177150932,0.0017227889123865873,0.9847818649076745,0.0038567712979084485,5,Data_drop_na_balanced_smote.pkl | MLP
+Data_iterative_imputed_balanced_smote.pkl,CatBoost,0.9948989205044605,0.000836268345292508,0.9854480986466353,0.001109858889941608,5,Data_iterative_imputed_balanced_smote.pkl | CatBoost
+Data_iterative_imputed_balanced_smote.pkl,LightGBM,0.9941177307041287,0.0012860995204633631,0.9839211969778795,0.001159465015152173,5,Data_iterative_imputed_balanced_smote.pkl | LightGBM

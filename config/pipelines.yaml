@@ -1,0 +1,11 @@
+versions:
+  - name: knn_imputed_standard_smote
+    imputation: knn
+    scaling: standard
+    balancing: smote
+    feature_reduction: none
+  - name: iterative_imputed_minmax_pca
+    imputation: iterative
+    scaling: minmax
+    balancing: none
+    feature_reduction: pca
