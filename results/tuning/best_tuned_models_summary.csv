@@ -1,0 +1,3 @@
+Model,Best Score (ROC AUC),Best Parameters
+CatBoost,0.7770890978563814,"{'auto_class_weights': 'Balanced', 'bagging_temperature': 0.6208342600258236, 'border_count': 221, 'depth': 8, 'iterations': 307, 'l2_leaf_reg': 8.473201101373808, 'learning_rate': 0.17190763971672393, 'random_strength': 5.867521656638482}"
+LightGBM,0.8013782686030361,"{'class_weight': None, 'colsample_bytree': 0.6648922471089815, 'learning_rate': 0.06078308278686894, 'max_depth': 9, 'n_estimators': 179, 'num_leaves': 22, 'reg_alpha': 0.30087830981676966, 'reg_lambda': 0.2848404943774676, 'subsample': 0.6368869473545328}"
