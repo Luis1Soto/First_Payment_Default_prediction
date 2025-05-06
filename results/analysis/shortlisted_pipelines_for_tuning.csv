@@ -1,0 +1,6 @@
+Processed_File,Model,mean_auc,std_auc,mean_f1,std_f1,count,Accuracy_mean,Pipeline
+Data_test_final.pkl,Final_LightGBM_on_Test,1.0,,0.9910714285714286,,1,0.9994869821726304,Data_test_final.pkl | Final_LightGBM_on_Test
+Data_iterative_imputed.pkl,LogisticRegression,0.7994701244582337,,0.154682593216246,,0,0.7721563333297864,Data_iterative_imputed.pkl | LogisticRegression
+Data_iterative_imputed.pkl,CatBoost,0.765220252611979,,0.2144844562147668,,0,0.9742208519594432,Data_iterative_imputed.pkl | CatBoost
+Data_iterative_imputed.pkl,LightGBM,0.7616341908898665,,0.2222721574345459,,0,0.9730986357362332,Data_iterative_imputed.pkl | LightGBM
+Data_iterative_imputed.pkl,MLP,0.6552440557981409,,0.1270550871475188,,0,0.9461331946209578,Data_iterative_imputed.pkl | MLP

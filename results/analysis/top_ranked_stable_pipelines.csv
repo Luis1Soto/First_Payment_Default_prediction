@@ -1,0 +1,21 @@
+Pipeline,auc_std,f1_std,auc_range,f1_range,auc_mean,f1_mean,pipeline,flag_overfit_auc,flag_overfit_f1,flag_overfit
+Data_test_final.pkl | Final_LightGBM_on_Test,,,0.0,0.0,1.0,0.9910714285714286,Data_test_final.pkl | Final_LightGBM_on_Test,False,False,False
+Data_iterative_imputed.pkl | LogisticRegression,,,0.0,0.0,0.7994701244582337,0.154682593216246,Data_iterative_imputed.pkl | LogisticRegression,False,False,False
+Data_iterative_imputed.pkl | CatBoost,,,0.0,0.0,0.765220252611979,0.2144844562147668,Data_iterative_imputed.pkl | CatBoost,False,False,False
+Data_iterative_imputed.pkl | LightGBM,,,0.0,0.0,0.7616341908898665,0.2222721574345459,Data_iterative_imputed.pkl | LightGBM,False,False,False
+Data_iterative_imputed.pkl | MLP,,,0.0,0.0,0.6552440557981409,0.1270550871475188,Data_iterative_imputed.pkl | MLP,False,False,False
+Data_median_imputed.pkl | LogisticRegression,,,0.0,0.0,0.6345373167465109,0.0801112459448998,Data_median_imputed.pkl | LogisticRegression,False,False,False
+Data_knn_imputed.pkl | LogisticRegression,,,0.0,0.0,0.6321188049363047,0.0798412740423461,Data_knn_imputed.pkl | LogisticRegression,False,False,False
+Data_mean_imputed.pkl | LogisticRegression,,,0.0,0.0,0.6318862859540755,0.079844607182573,Data_mean_imputed.pkl | LogisticRegression,False,False,False
+Data_mean_imputed.pkl | LightGBM,,,0.0,0.0,0.6258502839450053,0.0,Data_mean_imputed.pkl | LightGBM,False,False,False
+Data_mean_imputed.pkl | CatBoost,,,0.0,0.0,0.6226500822682711,0.0,Data_mean_imputed.pkl | CatBoost,False,False,False
+Data_knn_imputed.pkl | CatBoost,,,0.0,0.0,0.618367094023085,0.0,Data_knn_imputed.pkl | CatBoost,False,False,False
+Data_knn_imputed.pkl | LightGBM,,,0.0,0.0,0.6176126954070718,0.0021857923497267,Data_knn_imputed.pkl | LightGBM,False,False,False
+Data_median_imputed.pkl | LightGBM,,,0.0,0.0,0.6171183565856665,0.0,Data_median_imputed.pkl | LightGBM,False,False,False
+Data_median_imputed.pkl | CatBoost,,,0.0,0.0,0.6143412907005236,0.0,Data_median_imputed.pkl | CatBoost,False,False,False
+Data_drop_na.pkl | LogisticRegression,,,0.0,0.0,0.5708851000741291,0.0125,Data_drop_na.pkl | LogisticRegression,False,False,False
+Data_knn_imputed.pkl | MLP,,,0.0,0.0,0.565636651373211,0.0586696413061998,Data_knn_imputed.pkl | MLP,False,False,False
+Data_mean_imputed.pkl | MLP,,,0.0,0.0,0.5610878208310632,0.0575508293596675,Data_mean_imputed.pkl | MLP,False,False,False
+Data_median_imputed.pkl | MLP,,,0.0,0.0,0.5528268892984923,0.0663223984879483,Data_median_imputed.pkl | MLP,False,False,False
+Data_drop_na.pkl | MLP,,,0.0,0.0,0.5386592537682234,0.0,Data_drop_na.pkl | MLP,False,False,False
+Data_drop_na.pkl | LightGBM,,,0.0,0.0,0.521941438102298,0.0571428571428571,Data_drop_na.pkl | LightGBM,False,False,False
